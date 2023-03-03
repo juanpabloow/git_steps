@@ -7,4 +7,5 @@ The principal commands for Git are:
 - git commit -m "mesage" (commits the files that are in the staging area)
 - git log (You should see an entry for your “Add hello_world.txt” commit. You 
            will also see details on the author who made the commit)
+- git push (upload your work to the GitHub repository)
 - 
