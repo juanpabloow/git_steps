@@ -1,10 +1,10 @@
-It was a bad mistake to follow me darling :D.
+The basic Git syntax is program | action | destination.
 
 The principal commands for Git are:
 - git clone (followed by the URL of the SSH key)
 - git status (shows files that are in the staging area and the ones that not.)
 - git add (followed by the file) / (adds the file to the staging area)
-- git commit -m "mesage" (commits the files that are in the staging area)
+- git commit -m "message" (commits the files that are in the staging area) // The -m flag is to write a message.
 - git log (You should see an entry for your “Add hello_world.txt” commit. You 
            will also see details on the author who made the commit)
 - git push (upload your work to the GitHub repository)
