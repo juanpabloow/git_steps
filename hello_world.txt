@@ -8,5 +8,6 @@ The principal commands for Git are:
 - git log (You should see an entry for your “Add hello_world.txt” commit. You 
            will also see details on the author who made the commit)
 - git push (upload your work to the GitHub repository)
-- git checkout -b "branch name"
-- git push origin "branch name"
+- git checkout "branch name" (It switches you to an existing branch called "branch name" in your local repository)
+- git checkout -b "branch name" (This creates a new branch with the name you specify and after creating it, it automatically switches you to that new branch.)
+- git push origin "branch name" (This uploads (pushes) your new branch from your local machine to the remote repository.)
