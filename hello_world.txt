@@ -11,3 +11,6 @@ The principal commands for Git are:
 - git checkout "branch name" (It switches you to an existing branch called "branch name" in your local repository)
 - git checkout -b "branch name" (This creates a new branch with the name you specify and after creating it, it automatically switches you to that new branch.)
 - git push origin "branch name" (This uploads (pushes) your new branch from your local machine to the remote repository.)
+- git pull origin main (update your local directory with the latest changes from the remote.) // This fetches and merges the changes in one command.
+
+
